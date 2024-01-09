@@ -1,8 +1,11 @@
 ## **D7041E - Applied Artificial Intelligence - Mini-project**
-
+Group 1
 - Dimitra Kampitaki (dimkam-2@student.ltu.se )
 - Georgios Savvidis (geosav-2@student.ltu.se )
 - Rafael Silva (rafsil-2@student.ltu.se)
+
+### The Video of the Presentation:
+https://www.youtube.com/watch?v=2AM8Ee1D-RU
 
 ### The Project:
 The project hereby presented, tackles an image classification problem for detecting brain tumor in images with the help of Deep Learning and Artificial Neural Networks (ANNs). This project is a partial requirement for the course Applied Artificial Intelligence (D7041E), held as part of the International Master’s Program in Applied Artificial Intelligence at Luleå University of Technology (LTU), fall 2023. 
